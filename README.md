@@ -24,9 +24,7 @@ Change the branch from master to main (According to your repo)
 Add Build steps (execute windows batch command)
 ----------------------------------------------------------
 cd src
-
 javac com/git2/pipe2.java
-
 java com.git2.pipe2
 
 
