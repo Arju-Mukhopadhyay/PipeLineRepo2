@@ -1,5 +1,7 @@
 CI - Continuous Integration
+
 CD - Continuous Delivery
+
 CI + CD Both are called methodology
 
 Jenkins -> It's a Tool
